@@ -1,5 +1,5 @@
 # Software-Quality-and-Testing---Wordery.com
-JUnit, Selenium and Cucumber tests on Wordery.com
+JUnit, Selenium and Cucumber tests on Wordery.com using chrome webdriver v.93
 
 
 
